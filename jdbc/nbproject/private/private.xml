@@ -3,12 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/myGit/xml/jdbc/src/beSkilled/MySqlConncet.java</file>
-            <file>file:/D:/myGit/xml/jdbc/src/beSkilled/InsertData.java</file>
-            <file>file:/D:/myGit/xml/jdbc/src/beSkilled/UpdateData.java</file>
-            <file>file:/D:/myGit/xml/jdbc/src/beSkilled/CreatTableUseMySql.java</file>
-            <file>file:/D:/myGit/xml/jdbc/src/beSkilled/DeleteData.java</file>
-            <file>file:/D:/myGit/xml/jdbc/src/beSkilled/test/TestConncet.java</file>
+            <file>file:/D:/myGit/JDBC/jdbc/src/beSkilled/exam/UpdateData.java</file>
+            <file>file:/D:/myGit/JDBC/jdbc/src/beSkilled/exam/Lists.java</file>
+            <file>file:/D:/myGit/JDBC/jdbc/src/beSkilled/exam/CreatTable.java</file>
+            <file>file:/D:/myGit/JDBC/jdbc/src/beSkilled/exam/InsertData.java</file>
+            <file>file:/D:/myGit/JDBC/jdbc/src/beSkilled/exam/ViewDataInTable.java</file>
         </group>
     </open-files>
 </project-private>
