@@ -5,14 +5,13 @@
  */
 package beSkilled.Inventory.ProductService;
 
-import beSkilled.Inventory.CreateMethod;
+
 import beSkilled.Inventory.MySqlConnect;
 import beSkilled.Inventory.Product;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+
 
 /**
  *
@@ -36,7 +35,7 @@ public class ProductService {
             System.out.println("Data Inserted Successfully");
             
         } catch (SQLException ex) {
-            Logger.getLogger(CreateMethod.class.getName()).log(Level.SEVERE, null, ex);
+           ex.printStackTrace();
         }
     
     

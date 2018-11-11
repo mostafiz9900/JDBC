@@ -9,7 +9,7 @@ import java.util.Date;
 
 public class ProductTest {
     public static void main(String[] args) {
-        //ProductService.CreateTableP();
+       //ProductService.CreateTableP();
         
         Product p=new Product();
         p.setName("Lenovo d500");
@@ -18,7 +18,7 @@ public class ProductTest {
         p.setTotalPrice(10000);
         p.setPurchseDate(new Date());
         Category c=new Category();
-        c.setId(3);
+        c.setId(1);
         p.setCategory(c);
         ProductService.insertDataP(p);
     }
