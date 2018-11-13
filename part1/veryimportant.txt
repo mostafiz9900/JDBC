@@ -1,0 +1,44 @@
+/*
+////////////// Read First Installation Instructions //////////////////////////
+Code By : James Smith
+My Email : james_smith73@yahoo.com
+Updated Date : Oct3 , 2002 
+I would be updating this code atleast once a week 
+================== Directory ====================================================
+step 1  : make directory james in c: , that is c:\james
+step 2  : place the following files in this directory 
+	a. jamessmith.java 	d.Andrew.jpg 	g.Laura.jpg       j.Nancy.jpg
+	b. james.mdb	   	e.James.jpg     h.Margaret.jpg    k.Robert.jpg
+	c. sidebar33.jpg   	f.Janet.jpg     i.Micheal.jpg     l.Steven.jpg
+download these files from
+http://www.geocities.com/james_smith73/james.zip
+(sorry,  i couldnt bundle all files in a single zip and upload to planetsourcecode
+due to file size restrictions)
+================== c:\Autoexec.bat ==================================================
+(assumption u have installed jdk in c:\jdk1.2.1 directory)
+(add these lines in c:\Autoexec.bat - Restart your Computer for Settings to take effect)
+(If Nesssary)
+step 3  : SET classpath=
+step 4  : SET PATH=c:\windows;c:\windows\command;c:\jdk1.2.1\bin;c:\
+step 5  : SET JAVA_HOME=c:\jdk1.2.1
+================== ODBC Settings ========================
+step 6  : click control panel
+step 7  : ODBC Data Sources
+step 8  : click UserDSN Tab
+step 9  : click ADD Button , Select Microsoft Access Driver , Finish 
+step 10 : Give Datasource Name as  "james" , no double quotes
+step 11 : use Select and select james.mdb from c:\james\james.mdb
+click ok , ok finish
+================== Compile =======================================================
+step 12 : cd c:\james
+step 13 : javac jamessmith.java
+================= Run ============================================================
+step 14 : java jamessmith
+login 'a' and password 'a' for Accoutant (use this)
+login 'p' and password 'p' for Principal
+================================================================================
+I prefer u reading this on Macromedia Homesite Editor 5.0 to Edit my java code
+u may as well crack it friends ,  keep it a secret :) hahahahaha...... , 
+//================================================================================
+////////////// End Installation Instructions /////////////////////////////////////
+*/
