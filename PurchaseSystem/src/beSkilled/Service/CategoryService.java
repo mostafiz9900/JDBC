@@ -6,6 +6,7 @@ import beSkilled.domain.Category;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
+import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -36,5 +37,9 @@ public class CategoryService {
            Logger.getLogger(CategoryService.class.getName()).log(Level.SEVERE, null, ex);
        }
     
+    }
+
+    public static List<Category> getCatList() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }
