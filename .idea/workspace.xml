@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91881072-de73-4480-9d43-afa0a79d0798" name="Default Changelist" comment="" />
+    <list default="true" id="fe444496-169b-4e47-8b37-e361f4b4c3d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/DAO/DatabaseHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/DAO/DatabaseHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Allowance$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Allowance$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Allowance.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Allowance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Audit$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Audit$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Audit.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Audit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Deduction$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Deduction$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Deduction.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Deduction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Login$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Login$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/MainMenu$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/MainMenu$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/MainMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/MainMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/SearchEmpSalary$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/SearchEmpSalary$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/SearchEmpSalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/SearchEmpSalary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/UpdateSalary$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/UpdateSalary$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/UpdateSalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/UpdateSalary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/addEmployee$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/addEmployee$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/addEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/build/classes/employee_payroll/addEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee-Payroll-Management-System/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Payroll-Management-System/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC.iml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,11 +38,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="109645177">
+    <session id="-1203146174">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
@@ -29,25 +57,41 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="688" />
     <option name="y" value="20" />
-    <option name="width" value="1340" />
+    <option name="width" value="668" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sameBack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sameBack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543515129002" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,27 +110,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="91881072-de73-4480-9d43-afa0a79d0798" name="Default Changelist" comment="" />
-      <created>1543114535075</created>
+      <changelist id="fe444496-169b-4e47-8b37-e361f4b4c3d4" name="Default Changelist" comment="" />
+      <created>1543513589869</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543114535075</updated>
-      <workItem from="1543114568560" duration="375000" />
+      <updated>1543513589869</updated>
+      <workItem from="1543513601836" duration="1414000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="375000" />
+    <option name="totallyTimeSpent" value="1414000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1340" height="688" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1193265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
