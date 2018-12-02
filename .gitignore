@@ -4,6 +4,13 @@
 /Project/nbproject/private/
 /Demo/nbproject/private/
 /Demo/build/
+<<<<<<< HEAD
 /inventoryCalcuation/nbproject/private/
 /evidenceJdbc2/nbproject/private/
 /evidenceJdbc2/build/
+=======
+/evidenceJdbc/nbproject/private/
+/inventoryCalcuation/nbproject/private/
+/evidenceJdbc/build/
+/inventoryCalcuation/build/
+>>>>>>> 794cadba930eb305046d04dea19a7b5cf13d83d6
