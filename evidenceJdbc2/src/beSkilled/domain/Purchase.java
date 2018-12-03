@@ -5,7 +5,9 @@
  */
 package beSkilled.domain;
 
-import java.sql.Date;
+import java.util.Date;
+
+
 
 /**
  *
@@ -90,4 +92,5 @@ public class Purchase {
         this.purchasedate = purchasedate;
     }
 
+  
 }
