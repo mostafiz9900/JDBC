@@ -16,17 +16,17 @@ import service.PurchaseService;
 public class PurchaseTest {
     
     public static void main(String[] args) {
-        //PurchaseService.createTable();
+    PurchaseService.createTable();
         
-        carPurchase cp=new carPurchase();
-        cp.setName("TOYOTA");
-        cp.setpCode("T001");
-        cp.setQuantity(2);
-        cp.setUnitPrice(1000);
-        cp.setTotlalPrice(2000);
-        cp.setPurchaseDate(new Date());
-        PurchaseService.insertToPurchase(cp);
-        
+//        carPurchase cp=new carPurchase();
+//        cp.setName("TOYOTA");
+//        cp.setpCode("T001");
+//        cp.setQuantity(2);
+//        cp.setUnitPrice(1000);
+//        cp.setTotlalPrice(2000);
+//        cp.setPurchaseDate(new Date());
+//        PurchaseService.insertToPurchase(cp);
+//        
         
     }
 }

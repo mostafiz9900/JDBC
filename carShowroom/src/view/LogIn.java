@@ -54,6 +54,9 @@ public class LogIn extends javax.swing.JFrame {
         jLabel2.setText("User Name");
         jPanel2.add(jLabel2);
         jLabel2.setBounds(160, 70, 90, 20);
+
+        jTextFieldUserName.setBackground(new java.awt.Color(255, 255, 255));
+        jTextFieldUserName.setForeground(new java.awt.Color(0, 0, 0));
         jPanel2.add(jTextFieldUserName);
         jTextFieldUserName.setBounds(250, 70, 200, 30);
 
@@ -62,6 +65,9 @@ public class LogIn extends javax.swing.JFrame {
         jLabel3.setText("Password");
         jPanel2.add(jLabel3);
         jLabel3.setBounds(160, 120, 80, 20);
+
+        jPasswordField.setBackground(new java.awt.Color(255, 255, 255));
+        jPasswordField.setForeground(new java.awt.Color(0, 0, 0));
         jPanel2.add(jPasswordField);
         jPasswordField.setBounds(250, 110, 200, 30);
 
@@ -78,9 +84,9 @@ public class LogIn extends javax.swing.JFrame {
             }
         });
         jPanel2.add(jButton5);
-        jButton5.setBounds(260, 190, 63, 23);
+        jButton5.setBounds(260, 190, 66, 25);
 
-        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/carLogo700.png"))); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/c4.png"))); // NOI18N
         jPanel2.add(jLabel4);
         jLabel4.setBounds(0, 0, 580, 310);
 

@@ -7,7 +7,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 public class MySqlDbConnection {
     private static final String HOST = "jdbc:mysql://localhost:3306";
-    private static final String DBNMAE = "inventorycal";
+    private static final String DBNMAE = "car";
     private static final String URL = HOST + "/" + DBNMAE;
     private static Connection con = null;
 

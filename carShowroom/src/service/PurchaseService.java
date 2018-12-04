@@ -36,7 +36,7 @@ public class PurchaseService {
     }
 
     public static void insert(carPurchase purchase) {
-        String sql = "insert into cyclePurchase(name, pCode, quantity, unitPrice, totalPrice, purchaseDate) values(?,?,?,?,?,?)";
+        String sql = "insert into carPurchase(name, pCode, quantity, unitPrice, totalPrice, purchaseDate) values(?,?,?,?,?,?)";
         try {
             PreparedStatement ps = conn.prepareStatement(sql);
             ps.setString(1, purchase.getName());
@@ -54,7 +54,7 @@ public class PurchaseService {
 
     public static carPurchase getPurchaseByProductCode(String productCode) {
        carPurchase purchase = new carPurchase();
-        String sql = "select * from cyclePurchase where pCode=?";
+        String sql = "select * from carPurchase where pCode=?";
 
         try {
             PreparedStatement ps = conn.prepareStatement(sql);
@@ -100,7 +100,7 @@ public class PurchaseService {
 
     public static carPurchase getProductDetails(String productCode) {
         carPurchase purchase = new carPurchase();
-        String sql = " select * from cyclePurchase where pCode=? limit 1";
+        String sql = " select * from carPurchase where pCode=? limit 1";
         try {
             PreparedStatement ps = conn.prepareStatement(sql);
             ps.setString(1, productCode);
