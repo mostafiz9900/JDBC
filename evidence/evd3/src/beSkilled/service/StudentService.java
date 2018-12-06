@@ -64,9 +64,7 @@ public class StudentService {
         try {
             PreparedStatement ps = con.prepareStatement(sql);
 
-            ps.setString(1, stu.getName());
-            ps.setString(2, stu.getEmail());
-            ps.setString(3, stu.getId());
+            ps.setString(1, stu.getId());
             ps.executeUpdate();
             System.out.println("update data Success");
         } catch (SQLException ex) {
