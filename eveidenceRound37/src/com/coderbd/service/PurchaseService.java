@@ -102,6 +102,7 @@ public class PurchaseService {
         Purchase purchase = new Purchase();
         String sql = " select * from purchase  where productCode=? limit 1";
         try {
+            
             PreparedStatement ps = conn.prepareStatement(sql);
             ps.setString(1, productCode);
             ResultSet rs = ps.executeQuery();
