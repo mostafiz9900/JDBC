@@ -18,7 +18,7 @@ public class PurchaseService {
 
     static Connection conn = MySqlDbConnection.getConnection();
 
-    public static void createTable() {
+    public static void  createTable() {
         String sql = "create table purchase(id int auto_increment primary key, productName varchar(30) not null, productCode varchar(30) not null, qty int(11) not null, unitprice double not null, totalPrice double not null, purchasedate Date not null)";
         try {
             PreparedStatement ps = conn.prepareStatement(sql);
